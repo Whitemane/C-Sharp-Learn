@@ -12,9 +12,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            //Entity FramwWrok
-            double result = Calculator.Mul(1,2);
-            Console.WriteLine(result);
+            (new Form()).ShowDialog();
 
         }
     }
