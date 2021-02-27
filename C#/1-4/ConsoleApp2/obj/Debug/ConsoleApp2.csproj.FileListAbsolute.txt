@@ -1,0 +1,12 @@
+F:\Programing\C#\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\Programing\C#\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\Programing\C#\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\Programing\C#\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\Programing\C#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Programing\C#\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\Programing\C#\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\Programing\C#\ConsoleApp2\bin\Debug\EntityFramework.dll
+F:\Programing\C#\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\C#\ConsoleApp2\bin\Debug\EntityFramework.xml
+F:\Programing\C#\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\C#\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
